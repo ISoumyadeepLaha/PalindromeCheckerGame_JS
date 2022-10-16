@@ -24,4 +24,4 @@ It tooked me almost 1hrs 20mins to complete
 
 # ✈️ Live link
 
-[Netlify Live...]()
+[Netlify Live...](https://soumyadeeplaha-palindromechecker.netlify.app/)
